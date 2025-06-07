@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS and Linux junk
+.DS_Store
+*.swp
+*.swo
+
+# Windows junk
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# CSV logs
+emotion_log.csv
